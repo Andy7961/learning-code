@@ -1,0 +1,4 @@
+﻿  字符串.c
+C:\Users\Win\source\learning-code\字符串\字符串.c(7,26): warning C4013: “strlen”未定义；假设外部返回 int
+C:\Users\Win\source\learning-code\字符串\字符串.c(6,1): warning C4305: “初始化”: 从“int”到“char”截断
+  字符串.vcxproj -> C:\Users\Win\source\learning-code\字符串\Debug\字符串.exe
