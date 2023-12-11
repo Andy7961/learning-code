@@ -1,0 +1,3 @@
+﻿  switch语句的使用.c
+C:\Users\Win\source\learning-code\switch语句\switch语句的使用.c(8,9): warning C4002: 类函数宏的调用“scanf”参数过多
+  switch语句.vcxproj -> C:\Users\Win\source\learning-code\switch语句\Debug\switch语句.exe
