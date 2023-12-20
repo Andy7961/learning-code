@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "switch语句小练习", "switch语句小练习.vcxproj", "{4821766C-F86F-4050-92AE-F5F2F190FCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4821766C-F86F-4050-92AE-F5F2F190FCBF}.Debug|x64.ActiveCfg = Debug|x64
+		{4821766C-F86F-4050-92AE-F5F2F190FCBF}.Debug|x64.Build.0 = Debug|x64
+		{4821766C-F86F-4050-92AE-F5F2F190FCBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{4821766C-F86F-4050-92AE-F5F2F190FCBF}.Debug|x86.Build.0 = Debug|Win32
+		{4821766C-F86F-4050-92AE-F5F2F190FCBF}.Release|x64.ActiveCfg = Release|x64
+		{4821766C-F86F-4050-92AE-F5F2F190FCBF}.Release|x64.Build.0 = Release|x64
+		{4821766C-F86F-4050-92AE-F5F2F190FCBF}.Release|x86.ActiveCfg = Release|Win32
+		{4821766C-F86F-4050-92AE-F5F2F190FCBF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B09F3A-621E-47FD-938C-13BB7C146E17}
+	EndGlobalSection
+EndGlobal
