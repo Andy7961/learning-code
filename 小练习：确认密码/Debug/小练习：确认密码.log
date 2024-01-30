@@ -1,0 +1,3 @@
+﻿  确认密码.c
+C:\Users\Win\source\learning-code\小练习：确认密码\确认密码.c(9,2): warning C4002: 类函数宏的调用“scanf”参数过多
+  小练习：确认密码.vcxproj -> C:\Users\Win\source\learning-code\小练习：确认密码\Debug\小练习：确认密码.exe
