@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "小练习：确认密码2", "小练习：确认密码2.vcxproj", "{62317D53-620E-4858-9BE0-CA6A60F39BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62317D53-620E-4858-9BE0-CA6A60F39BBB}.Debug|x64.ActiveCfg = Debug|x64
+		{62317D53-620E-4858-9BE0-CA6A60F39BBB}.Debug|x64.Build.0 = Debug|x64
+		{62317D53-620E-4858-9BE0-CA6A60F39BBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{62317D53-620E-4858-9BE0-CA6A60F39BBB}.Debug|x86.Build.0 = Debug|Win32
+		{62317D53-620E-4858-9BE0-CA6A60F39BBB}.Release|x64.ActiveCfg = Release|x64
+		{62317D53-620E-4858-9BE0-CA6A60F39BBB}.Release|x64.Build.0 = Release|x64
+		{62317D53-620E-4858-9BE0-CA6A60F39BBB}.Release|x86.ActiveCfg = Release|Win32
+		{62317D53-620E-4858-9BE0-CA6A60F39BBB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0497775F-08FD-411B-A600-785884B09AF8}
+	EndGlobalSection
+EndGlobal
